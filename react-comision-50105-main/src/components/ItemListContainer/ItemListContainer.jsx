@@ -2,7 +2,7 @@ const ItemListContainer = ({greeting}) => {
     const greetingStyles = {
         fontSize: "3rem",        
         fontWeight: "700",
-        textAling: "center",
+        textAlign: "center",
         color: "#f4f4f4"    
     }
     return (

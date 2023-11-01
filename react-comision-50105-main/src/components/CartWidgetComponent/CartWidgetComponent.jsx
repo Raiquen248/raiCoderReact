@@ -2,6 +2,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faCartShopping} from '@fortawesome/free-solid-svg-icons';
 const CartWidgetComponent = () => {
     const iconStyles = {
+        color: 'green',
         fontSize: '1.3rem',
         paddingRight: '10px'
     }
