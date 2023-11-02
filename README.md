@@ -1,3 +1,12 @@
+NICOOOOOOOOOOOOOOOOOOOO:  
+
+CLONAR Y:
+NPM INSTALL 
+npm install --save @fortawesome/react-fontawesome
+npm install --save @fortawesome/free-solid-svg-icons
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
