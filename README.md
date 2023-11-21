@@ -7,6 +7,8 @@ npm install --save @fortawesome/free-solid-svg-icons
 npm i axios
 npm i react-bootstrap
 npm i react-router-dom
+npm install @vitejs/plugin-react @vitejs/plugin-react-swc
+
 
 
 # React + Vite
